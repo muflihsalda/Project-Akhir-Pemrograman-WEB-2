@@ -73,73 +73,41 @@ Apabila pengguna mencoba mengakses endpoint tanpa token autentikasi, maka server
 
 ## Halaman Home
 
-> Tempelkan screenshot halaman Home.
+<img width="948" height="519" alt="image" src="https://github.com/user-attachments/assets/5e43f3a4-17c2-4a47-83cb-3997cb4f2cb3" />
 
-![Home](images/home.png)
 
 ---
 
 ## Halaman Login
 
-> Tempelkan screenshot halaman Login.
-
-![Login](images/login.png)
+<img width="708" height="575" alt="image" src="https://github.com/user-attachments/assets/371cc602-d2b9-42d7-bf3c-9a1b799659d5" />
 
 ---
 
 ## Dashboard Admin
 
-> Tempelkan screenshot Dashboard.
+<img width="1196" height="643" alt="image" src="https://github.com/user-attachments/assets/8e9d1935-4a30-487b-b55f-21e57fae3e8d" />
 
-![Dashboard](images/dashboard.png)
-
----
-
-## Halaman Data Barang
-
-> Tempelkan screenshot halaman Data Barang.
-
-![Barang](images/barang.png)
 
 ---
 
-## Form Tambah / Edit Barang
+## Halaman Data Barang Dan Form Tambah/Form Edit
 
-> Tempelkan screenshot saat form tambah atau edit data Barang.
-
-![Form Barang](images/form-barang.png)
+<img width="510" height="446" alt="image" src="https://github.com/user-attachments/assets/0075ab07-dcc8-449f-b2ac-4a861480013f" />
 
 ---
 
-## Halaman Data Kategori
+## Halaman Data Kategori Dan Form Tambah/Form Edit
 
-> Tempelkan screenshot halaman Data Kategori.
+<img width="1019" height="552" alt="image" src="https://github.com/user-attachments/assets/022d2cc6-0e4a-4550-9e82-8350912c16e1" />
 
-![Kategori](images/kategori.png)
-
----
-
-## Form Tambah / Edit Kategori
-
-> Tempelkan screenshot saat form tambah atau edit kategori.
-
-![Form Kategori](images/form-kategori.png)
 
 ---
 
-## Halaman Data Supplier
+## Halaman Data Supplier Dan Form Tambah/Form Edit
 
-> Tempelkan screenshot halaman Data Supplier.
+<img width="1035" height="568" alt="image" src="https://github.com/user-attachments/assets/c8e00156-25a6-4625-966a-e3b8c5331094" />
 
-![Supplier](images/supplier.png)
-
----
-
-## Form Tambah / Edit Supplier
-
-> Tempelkan screenshot saat form tambah atau edit supplier.
-
-![Form Supplier](images/form-supplier.png)
 
 ---
 
